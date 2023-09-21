@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181441646518",
+    "project_id": "notout-app",
+    "storage_bucket": "notout-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181441646518:android:10cca827509a0d90b1fb17",
+        "android_client_info": {
+          "package_name": "com.example.notout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181441646518-d9g2inogra8edgh06pugcj5rtmc70p3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notout",
+            "certificate_hash": "e890101a083042016f90ff34b64d183d00f6b018"
+          }
+        },
+        {
+          "client_id": "181441646518-a0uj3lt606ufhkki6728lhr4i0p6jjog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm79lZ7Owq50RmpB9dH_Iu2W34uObZww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181441646518-a0uj3lt606ufhkki6728lhr4i0p6jjog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
